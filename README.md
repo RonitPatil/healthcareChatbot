@@ -60,7 +60,7 @@ We have integrated Trulens as our evaluation metric by coding specific feedback 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Sujithrt/healthcare_mining.git
+    git clone https://github.com/RonitPatil/healthcareChatbot.git
     ```
 2. Install dependencies:
     ```bash
